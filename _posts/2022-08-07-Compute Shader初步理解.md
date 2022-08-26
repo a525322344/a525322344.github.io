@@ -1,3 +1,12 @@
+---
+title: Compute Shader初步理解
+date: 2022-08-07
+categories:
+- CG
+tags: 
+- Unity
+---
+
 在unity中，新建一个compute shader，它的内容会是这个样子的：
 
 ```c
